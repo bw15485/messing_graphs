@@ -21,3 +21,4 @@ week1 = averages([10,8,6,4],[12,15,18,20],[10,1,10,1],[10,1,10,1])
 print(week1.midprice())
 print(week1.microprice())
 
+print('man i am good')
